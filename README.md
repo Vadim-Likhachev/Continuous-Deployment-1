@@ -11,3 +11,7 @@
 Не забудьте поставить бейджик со статусом в `README.md`.
 
 **В качестве результата пришлите проверяющему ссылку на ваш GitHub-проект.**
+
+### AHJ-1.1
+
+[![Build status](https://ci.appveyor.com/api/projects/status/l48jmsd8mvnhkoxo/branch/main?svg=true)](https://ci.appveyor.com/project/Vadim-Likhachev/continuous-deployment-1/branch/main)
